@@ -1,4 +1,4 @@
-/*! TRL gate v1.0.0
+/*! TRL gate v1.0.1
  * Include once in the head of every page of the four tool apps, as a script
  * tag with src pointing at this file.
  *
@@ -25,7 +25,9 @@
       'localoperators.therequirementlist.com': 'https://www.therequirementlist.com/features/local-operators',
       'shoppingcentres.therequirementlist.com': 'https://www.therequirementlist.com/features/occupier-insights',
       'canvassing.therequirementlist.com': 'https://www.therequirementlist.com/features/canvassing-map',
-      'gap.therequirementlist.com': 'https://www.therequirementlist.com/features/gap-analysis-map'
+      'gap.therequirementlist.com': 'https://www.therequirementlist.com/features/gap-analysis-map',
+      'requirement-map.therequirementlist.com': 'https://www.therequirementlist.com/features/map-search',
+      'reports.therequirementlist.com': 'https://www.therequirementlist.com/features/property-reports'
     },
 
     // Tools with Elite-only contacts.
